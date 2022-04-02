@@ -1,0 +1,4 @@
+- Hi, I’m @sriharshahari1
+- I’m interested in web development!
+- I’m currently learning html, css and js
+- My mail: sriharshahari1@gmail.com
